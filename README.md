@@ -12,12 +12,13 @@
 
     简书链接：[AVCaptureSession+AVCaptureMovieFileOutput](https://www.jianshu.com/p/9b3840a5479d)
 
-AVCaptureSession+AVAssetWriter
+    AVCaptureSession+AVAssetWriter
 
     简书链接：[AVCaptureSession+AVAssetWriter](https://www.jianshu.com/p/49be4cd39eb6)
 
 * 第三方框架实现：
     GpuImage
+    
     简书链接：[GpuImage](https://www.jianshu.com/p/c852b866ccbc)
 
 ### 扩展
